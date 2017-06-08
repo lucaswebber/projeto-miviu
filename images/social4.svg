@@ -1,0 +1,30 @@
+<svg width="48" height="40" viewBox="0 0 48 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>flaticon1487589571-svg</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-120 -2554)">
+<g id="flaticon1487589571-svg">
+<g id="Layer_1">
+<g id="Group">
+<g id="Shape">
+<use xlink:href="#path0_fill" transform="translate(151.284 2554.39)" fill="#2E2E2E"/>
+</g>
+<g id="Shape">
+<use xlink:href="#path1_fill" transform="translate(135.725 2554.1)" fill="#2E2E2E"/>
+</g>
+<g id="Shape">
+<use xlink:href="#path2_fill" transform="translate(121.247 2554.85)" fill="#2E2E2E"/>
+</g>
+<g id="Shape">
+<use xlink:href="#path3_fill" transform="translate(120 2554.25)" fill="#2E2E2E"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 14.5856 39.4975L 0.109054 32.5402L 6.12089e-06 1.00209C -0.00250209 0.265852 0.766324 -0.219282 1.43004 0.0997625L 15.1545 6.69749C 15.5 6.86358 15.7198 7.21308 15.7198 7.59636L 15.7198 38.7845C 15.7197 39.3673 15.1109 39.75 14.5856 39.4975Z"/>
+<path id="path1_fill" d="M 15.668 32.8372L 0 25.3063L 15.0837 0.479745C 15.3501 0.0411783 15.9061 -0.123717 16.3687 0.0986111L 30.285 6.78864C 30.817 7.0444 31.0118 7.70339 30.7042 8.20703L 15.668 32.8372Z"/>
+<path id="path2_fill" d="M 30.1465 32.0806L 14.4786 24.5496L 0.117368 1.17075C -0.282751 0.519405 0.413457 -0.251819 1.1025 0.0794047L 14.4786 6.50961L 30.1465 32.0806Z"/>
+<path id="path3_fill" d="M 14.5911 39.6363L 0.448373 32.8375C 0.174261 32.7057 0 32.4285 0 32.1245L 0 0.767043C 0 0.202745 0.589669 -0.168001 1.09848 0.0766554L 15.7253 7.10818L 15.7253 38.9233C 15.7253 39.5061 15.1164 39.8888 14.5911 39.6363Z"/>
+</defs>
+</svg>

@@ -1,0 +1,12 @@
+<svg width="234" height="103" viewBox="0 0 234 103" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Rectangle 12</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-304 -2061)">
+<g id="Rectangle 12">
+<use xlink:href="#path0_fill" transform="translate(304 2061)" fill="#FFFFFF"/>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 0 51.5C 0 23.0573 23.0573 0 51.5 0L 182.5 0C 210.943 0 234 23.0573 234 51.5L 234 51.5C 234 79.9427 210.943 103 182.5 103L 51.5 103C 23.0573 103 0 79.9427 0 51.5L 0 51.5Z"/>
+</defs>
+</svg>

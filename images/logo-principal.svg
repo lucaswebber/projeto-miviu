@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="189px" height="50px" viewBox="0 0 189 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12.7460526,0.014122807 C19.5827193,0.014122807 25.1333333,5.58868421 25.1333333,12.455 C25.1333333,19.3214035 19.5827193,24.8960526 12.7460526,24.8960526 C5.9095614,24.8960526 0.358947368,19.3214035 0.358947368,12.455 C0.358947368,5.58868421 5.9095614,0.014122807 12.7460526,0.014122807 Z" id="path-1"></path>
+        <path d="M7.66307018,0.445087719 C11.7485965,0.445087719 15.0655263,3.77640351 15.0655263,7.87973684 C15.0655263,11.9829825 11.7485965,15.314386 7.66307018,15.314386 C3.57754386,15.314386 0.260614035,11.9829825 0.260614035,7.87973684 C0.260614035,3.77640351 3.57754386,0.445087719 7.66307018,0.445087719 Z" id="path-3"></path>
+        <path d="M4.54482456,0.424385965 C6.94842105,0.424385965 8.89991228,2.38438596 8.89991228,4.79833333 C8.89991228,7.21245614 6.94842105,9.17245614 4.54482456,9.17245614 C2.14114035,9.17245614 0.189736842,7.21245614 0.189736842,4.79833333 C0.189736842,2.38438596 2.14114035,0.424385965 4.54482456,0.424385965 Z" id="path-5"></path>
+    </defs>
+    <g id="Web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="LandingPage-(&lt;1170)" transform="translate(-100.000000, -45.000000)">
+            <g id="Group-3" transform="translate(100.000000, 45.000000)">
+                <g id="Page-1">
+                    <image id="Image-1" x="0" y="0" width="49.730614" height="49.9466667" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADkAAAA5CAYAAACMGIOFAAAABGdBTUEAA1teXP8meAAABLlJREFUaAXdmz1sHEUUx+fNru+b6tpQYRcB5KBzYVIgJLs2SoRESaREAkEiUKDBNsU2dqgQISQSFE4cUVlCgVD7itgScuGTzkJyYVORls635/vYfbzn82zi+M77cbO+ux3LO3u7s7Pvt//5eDOzCyLeAL89t6bBgCkhoCQAS4gwAYB7AqEiBFbQwe0PL1hbZAbGZQrElfHav9a4acKKAHjP7x6I+Mxp442PXrf2/dJGOa8d0rIs+fYn7pco5BKAyAY2CtEmMb/9+xd5l/JwA18XIKFWyNXn88WcTD8hOF/1etlGqm7abvPKtQt3/uuVJuxxbZAMmAFzHQAuhTXiVHoUO3VszegC1QKpFVARawTtG5IB08JYFyD6V1ABHsdUdHeawu1b0b4g4wRUvDpAI0OeB6Au0EiQq7vzxbGCoCKqoZFRJH4xFd3WgZi5djF8qxsa0gMU5wjoPYBooKEgFaArUHsj43H47EgBoRWVPnl6p1d3bxZlwV0fJCAbQ/eflAUssz2ecT47gZTkDCGfX6e8BqbgqxwocEfUbKqj9309I1/IYQRUwEFBz4T8iRTMZzN6XDVlme6YPKODen3m1hmK9oQcCUD1wHxAu0IyYDaTGm4FFeBxzJ5R/bDZVdFTkKMIqHh7gZ6AZMBMeiwWZ1sZEnfMoI1G+4SiXj9pWUJm0ubvcYwm4gZ7OX8az04yB/Oo456SP/9z6zaA/F6dGPWYFL396Rv3fmCOI8j7+5+Pm9LcoR/B52SG/ClQH2q3XefSzfEH+ybLaoLxUCBmY5sTHMwDyRkgV+jW78ODvc/eBSn/Gowd8d8VXfcyV06a+E1uQJrUNsmrLwFqneYctidWIiVp+j7RAUsmojtx3MgmExXFhKRuYy+ZdB0q6jH2TEe4FUB4J6mg5BRUJPWPtISW3EBKVsy20942DDOxlI7Trsiv33y0RbQbSaQk1+4Z87GEiO3D62ikyHeFxPiutG5to9u4wXxHw5Gv3vp133WdxSSp2UZnkbmYyRtzHayt3qWWdtOlmc3R/3M2amuPflSieeNJPrC8+3FxTECZiu2kSjCCcZWW+2YXLj725mNPQCpQqqgjCorVlhAnAJnpFOQR6NbVovFaoUz7I6ModfpV96A2uzD9xFOQWTh0heQTyyMEehbgmZAKlNZAyvQ2x9AqiiiqWOuuIDNw6Klk53RHUZHPEugQNkZHgHbXIqrsDwTJieap6BZy6TKtLA+NolxEa3Zj9k6XOvgyYGDIYQMNAxgKUoHms6zo4Ooo+aNV224GUpBt5uBbJzvJXmy56OayqYGAMmDdboUCjATJFzFoOmuct8NQPay3QwNGhhwAaGTAviAVaCoj41WUWtFGw42kINvIIXSd7Fz2YstFl0HpiPbuhVvRVgP7AmRL+4bkTOIA1QWoDVKBGikavWjoXthVc5qibwXZLg7eoLnzM/qWPQ8ybIaa+c3oufCVuKETkHPUUlw5Iy/QUuDi3NwX5AIu0X/OO+63Q++gI4iF5T+e3hMWTU5oDPohj437ZvuDcQmwEuR9dCqeGy7i9e+mno7G1wSvCACL23PTVClK9B0IfRdCsQBae+HvQkSFvhOpkGaVpak/Y/0u5H+zS48wmHO3wgAAAABJRU5ErkJggg=="></image>
+                    <g id="Group-4" transform="translate(12.280702, 12.031579)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Clip-3"></g>
+                        <polygon id="Fill-2" fill="#EFECEC" mask="url(#mask-2)" points="-4.90684211 30.177193 30.3991228 30.177193 30.3991228 -5.26701754 -4.90684211 -5.26701754"></polygon>
+                    </g>
+                    <path d="M25.0267544,12.0457018 C31.8634211,12.0457018 37.4140351,17.6202632 37.4140351,24.4865789 C37.4140351,31.3529825 31.8634211,36.9276316 25.0267544,36.9276316 C18.1902632,36.9276316 12.6396491,31.3529825 12.6396491,24.4865789 C12.6396491,17.6202632 18.1902632,12.0457018 25.0267544,12.0457018 Z" id="Stroke-5" stroke="#EEECEC" stroke-width="0.0576" stroke-linejoin="round"></path>
+                    <g id="Group-8" transform="translate(17.543860, 16.461404)">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <g id="Clip-7"></g>
+                        <polygon id="Fill-6" fill="#1A1A1B" mask="url(#mask-4)" points="-5.00517544 20.5955263 20.3314035 20.5955263 20.3314035 -4.83605263 -5.00517544 -4.83605263"></polygon>
+                    </g>
+                    <path d="M25.2069298,16.9064912 C29.2924561,16.9064912 32.609386,20.237807 32.609386,24.3411404 C32.609386,28.444386 29.2924561,31.7757895 25.2069298,31.7757895 C21.1214035,31.7757895 17.8044737,28.444386 17.8044737,24.3411404 C17.8044737,20.237807 21.1214035,16.9064912 25.2069298,16.9064912 Z" id="Stroke-9" stroke="#1A1A1B" stroke-width="0.0576" stroke-linejoin="round"></path>
+                    <g id="Group-12" transform="translate(25.438596, 14.707018)">
+                        <mask id="mask-6" fill="white">
+                            <use xlink:href="#path-5"></use>
+                        </mask>
+                        <g id="Clip-11"></g>
+                        <polygon id="Fill-10" fill="#F9F9F9" mask="url(#mask-6)" points="-5.07605263 14.4535965 14.1657018 14.4535965 14.1657018 -4.85675439 -5.07605263 -4.85675439"></polygon>
+                    </g>
+                    <path d="M29.9834211,15.1314035 C32.3869298,15.1314035 34.3385088,17.0913158 34.3385088,19.5053509 C34.3385088,21.9194737 32.3869298,23.8794737 29.9834211,23.8794737 C27.5797368,23.8794737 25.6283333,21.9194737 25.6283333,19.5053509 C25.6283333,17.0913158 27.5797368,15.1314035 29.9834211,15.1314035 Z" id="Stroke-13" stroke="#F9FAF9" stroke-width="0.0576" stroke-linejoin="round"></path>
+                </g>
+                <text id="Miviu" font-family="Montserrat-Bold, Montserrat" font-size="40" font-weight="bold" fill="#343434">
+                    <tspan x="80" y="40">Miviu</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

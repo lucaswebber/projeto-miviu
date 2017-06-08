@@ -1,0 +1,25 @@
+<svg width="849" height="585" viewBox="0 0 849 585" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>azul</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(286 -1860)">
+<g id="azul">
+<g id="Rectangle 8">
+<use xlink:href="#path0_fill" transform="matrix(1 0 0 -1 -286 2445)" fill="#7188F0"/>
+</g>
+<g id="Rectangle 12">
+<use xlink:href="#path1_fill" transform="translate(428 2236)" fill="#FFFFFF"/>
+</g>
+<g id="Rectangle 12">
+<use xlink:href="#path1_fill" transform="translate(401 2299)" fill="#FFFFFF"/>
+</g>
+<g id="Rectangle 12">
+<use xlink:href="#path2_fill" transform="translate(311 2047)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 0 0L 790 0L 790 585L 0 585L 0 0Z"/>
+<path id="path1_fill" fill-rule="evenodd" d="M 0 22.5C 0 10.0736 10.0736 0 22.5 0L 112.5 0C 124.926 0 135 10.0736 135 22.5L 135 22.5C 135 34.9264 124.926 45 112.5 45L 22.5 45C 10.0736 45 0 34.9264 0 22.5L 0 22.5Z"/>
+<path id="path2_fill" fill-rule="evenodd" d="M 0 51.5C 0 23.0573 23.0573 0 51.5 0L 182.5 0C 210.943 0 234 23.0573 234 51.5L 234 51.5C 234 79.9427 210.943 103 182.5 103L 51.5 103C 23.0573 103 0 79.9427 0 51.5L 0 51.5Z"/>
+</defs>
+</svg>

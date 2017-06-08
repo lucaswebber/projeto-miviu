@@ -1,0 +1,12 @@
+<svg width="796" height="585" viewBox="0 0 796 585" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Rectangle 8</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(289 -1857)">
+<g id="Rectangle 8">
+<use xlink:href="#path0_fill" transform="matrix(1 0 0 -1 -301 2442)" fill="#7188F0"/>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 0 0L 808 0L 808 585L 0 585L 0 0Z"/>
+</defs>
+</svg>
